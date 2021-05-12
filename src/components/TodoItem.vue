@@ -54,9 +54,12 @@
     height: 50px;
     padding-left: 10px;
     cursor: pointer;
+    transition: 0.2s ease-in-out;
   }
+
   .todo.done {
-    background: #6ec0fa;
-    color: #ffff;
+    background: #0daf69;
+    text-decoration: line-through;
+    color: #dedede;
   }
 </style>

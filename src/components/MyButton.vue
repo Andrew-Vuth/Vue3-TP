@@ -27,6 +27,6 @@
     background: rgba(250, 35, 35, 0.802);
   }
   .btn.plus {
-    background: rgba(193, 35, 250, 0.802);
+    background: #34a8fb;
   }
 </style>
